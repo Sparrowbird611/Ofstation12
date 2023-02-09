@@ -1,12 +1,10 @@
-# Baystation [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3.0-orange.svg)](https://opensource.org/licenses/AGPL-3.0) [![CodeQL](https://github.com/baystation12/baystation12/workflows/CodeQL/badge.svg)](https://github.com/Baystation12/Baystation12/actions/workflows/codeql-analysis.yml) [![CI Status](https://github.com/baystation12/baystation12/workflows/Run%20Tests/badge.svg)](https://github.com/Baystation12/Baystation12/actions/workflows/test.yml) [![codebeat badge](https://codebeat.co/badges/8ecb9a34-1bab-4d80-b34d-b16e8b216a03)](https://codebeat.co/projects/github-com-baystation12-baystation12-dev)
+# Defibstation [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3.0-orange.svg)](https://opensource.org/licenses/AGPL-3.0) [![CodeQL](https://github.com/Tennessee116/Defibstation12/workflows/CodeQL/badge.svg)](https://github.com/Tennessee116/Defibstation12/actions/workflows/codeql-analysis.yml) [![CI Status](https://github.com/Tennessee116/Defibstation12/workflows/Run%20Tests/badge.svg)](https://github.com/Tennessee116/Defibstation12/actions/workflows/test.yml)
 
 [Website](https://bay.ss13.me) - [Discord](https://bay.ss13.me/discord) - [Code](https://bay.ss13.me/github) - [DMDoc](https://baystation.xyz/dmdoc)
 
 ---
 
 ### CONTRIBUTING GUIDELINES
-
-**Please refrain from making non code related comments in pull requests on GitHub.** See the Code of Conduct on where you may provide feedback to users.
 
 All users are expected to review [/docs/CODE_OF_CONDUCT.md](/docs/CODE_OF_CONDUCT.md) before interacting with the repository or other users.
 
@@ -20,7 +18,7 @@ Please see [/docs/SECURITY.md](/docs/SECURITY.md) for this repository's security
 
 ### LICENSE
 
-The code for Baystation is licensed under the [GNU Affero General Public License v3](https://www.gnu.org/licenses/agpl.html), which can be found in full in [/LICENSE](/LICENSE).
+The code for Defibstation is licensed under the [GNU Affero General Public License v3](https://www.gnu.org/licenses/agpl.html), which can be found in full in [/LICENSE](/LICENSE).
 
 Code with a git authorship date prior to `1420675200 +0000` (2015/01/08 00:00 GMT) is licensed under the GNU General Public License version 3, which can be found in full in [/docs/GPL3.txt](/docs/GPL3.txt)
 
