@@ -1,4 +1,4 @@
-# Defibstation [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3.0-orange.svg)](https://opensource.org/licenses/AGPL-3.0) [![CodeQL](https://github.com/Tennessee116/Defibstation12/workflows/CodeQL/badge.svg)](https://github.com/Tennessee116/Defibstation12/actions/workflows/codeql-analysis.yml) [![CI Status](https://github.com/Tennessee116/Defibstation12/workflows/Run%20Tests/badge.svg)](https://github.com/Tennessee116/Defibstation12/actions/workflows/test.yml)
+# Ofstation [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3.0-orange.svg)](https://opensource.org/licenses/AGPL-3.0) [![CodeQL](https://github.com/Tennessee116/Defibstation12/workflows/CodeQL/badge.svg)](https://github.com/Tennessee116/Defibstation12/actions/workflows/codeql-analysis.yml) [![CI Status](https://github.com/Tennessee116/Defibstation12/workflows/Run%20Tests/badge.svg)](https://github.com/Tennessee116/Defibstation12/actions/workflows/test.yml)
 
 [Website](https://bay.ss13.me) - [Discord](https://bay.ss13.me/discord) - [Code](https://bay.ss13.me/github) - [DMDoc](https://baystation.xyz/dmdoc)
 
@@ -18,7 +18,7 @@ Please see [/docs/SECURITY.md](/docs/SECURITY.md) for this repository's security
 
 ### LICENSE
 
-The code for Defibstation is licensed under the [GNU Affero General Public License v3](https://www.gnu.org/licenses/agpl.html), which can be found in full in [/LICENSE](/LICENSE).
+The code for Ofstation is licensed under the [GNU Affero General Public License v3](https://www.gnu.org/licenses/agpl.html), which can be found in full in [/LICENSE](/LICENSE).
 
 Code with a git authorship date prior to `1420675200 +0000` (2015/01/08 00:00 GMT) is licensed under the GNU General Public License version 3, which can be found in full in [/docs/GPL3.txt](/docs/GPL3.txt)
 
