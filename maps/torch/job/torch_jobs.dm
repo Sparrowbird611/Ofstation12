@@ -11,12 +11,12 @@
 
 #define HUMAN_ONLY_JOBS /datum/job/captain, /datum/job/hop, /datum/job/cmo, /datum/job/chief_engineer, /datum/job/hos, /datum/job/representative, /datum/job/sea, /datum/job/pathfinder, /datum/job/rd
 	species_to_job_blacklist = list(
-		/datum/species/unathi  = list(HUMAN_ONLY_JOBS), //Other jobs unavailable via branch restrictions,
+		/datum/species/unathi  = list(HUMAN_ONLY_JOBS),
 		/datum/species/unathi/yeosa = list(HUMAN_ONLY_JOBS),
 		/datum/species/skrell  = list(HUMAN_ONLY_JOBS),
 		/datum/species/machine = list(HUMAN_ONLY_JOBS),
-		/datum/species/diona   = list(HUMAN_ONLY_JOBS),	//Other jobs unavailable via branch restrictions,
-		/datum/species/human/gravworlder = list(HUMAN_ONLY_JOBS), //human subspecies aren't human enough for the funni command roles.
+		/datum/species/diona   = list(HUMAN_ONLY_JOBS),
+		/datum/species/human/gravworlder = list(HUMAN_ONLY_JOBS), //Not considered human enough for command roles.
 		/datum/species/human/spacer = list(HUMAN_ONLY_JOBS),
 		/datum/species/human/tritonian = list(HUMAN_ONLY_JOBS),
 		/datum/species/human/vatgrown = list(HUMAN_ONLY_JOBS),
