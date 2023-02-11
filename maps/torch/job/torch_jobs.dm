@@ -17,8 +17,8 @@
 		/datum/species/machine = list(HUMAN_ONLY_JOBS),
 		/datum/species/diona   = list(HUMAN_ONLY_JOBS),
 		/datum/species/human/gravworlder = list(HUMAN_ONLY_JOBS), //Not considered human enough for command roles.
-		/datum/species/human/tritonian = list(HUMAN_ONLY_JOBS),
-		/datum/species/human/vatgrown = list(HUMAN_ONLY_JOBS),
+	/datum/species/human/tritonian = list(HUMAN_ONLY_JOBS),
+	/datum/species/human/vatgrown = list(HUMAN_ONLY_JOBS),
 	)
 #undef HUMAN_ONLY_JOBS
 
