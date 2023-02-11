@@ -16,6 +16,11 @@
 		/datum/species/skrell  = list(HUMAN_ONLY_JOBS),
 		/datum/species/machine = list(HUMAN_ONLY_JOBS, /datum/job/liaison, /datum/job/psychiatrist, /datum/job/bridgeofficer, /datum/job/senior_engineer, /datum/job/warden, /datum/job/qm, /datum/job/senior_scientist),
 		/datum/species/diona   = list(HUMAN_ONLY_JOBS, /datum/job/officer, /datum/job/liaison, /datum/job/warden, /datum/job/doctor, /datum/job/medical_trainee),	//Other jobs unavailable via branch restrictions,
+		/datum/species/human/gravworlder = list(HUMAN_ONLY_JOBS), //human subspecies aren't human enough for the funni command roles.
+		/datum/species/human/spacer = list(HUMAN_ONLY_JOBS),
+		/datum/species/human/tritonian = list(HUMAN_ONLY_JOBS),
+		/datum/species/human/vatgrown = list(HUMAN_ONLY_JOBS),
+		/datum/species/human/mule = list(HUMAN_ONLY_JOBS),
 	)
 #undef HUMAN_ONLY_JOBS
 
