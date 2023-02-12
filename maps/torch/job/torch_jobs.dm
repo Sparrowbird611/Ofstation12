@@ -11,11 +11,16 @@
 
 #define HUMAN_ONLY_JOBS /datum/job/captain, /datum/job/hop, /datum/job/cmo, /datum/job/chief_engineer, /datum/job/hos, /datum/job/representative, /datum/job/sea, /datum/job/pathfinder, /datum/job/rd
 	species_to_job_blacklist = list(
-		/datum/species/unathi  = list(HUMAN_ONLY_JOBS, /datum/job/liaison, /datum/job/warden), //Other jobs unavailable via branch restrictions,
-		/datum/species/unathi/yeosa = list(HUMAN_ONLY_JOBS, /datum/job/liaison, /datum/job/warden),
-		/datum/species/skrell  = list(HUMAN_ONLY_JOBS),
-		/datum/species/machine = list(HUMAN_ONLY_JOBS, /datum/job/liaison, /datum/job/psychiatrist, /datum/job/bridgeofficer, /datum/job/senior_engineer, /datum/job/warden, /datum/job/qm, /datum/job/senior_scientist),
-		/datum/species/diona   = list(HUMAN_ONLY_JOBS, /datum/job/officer, /datum/job/liaison, /datum/job/warden, /datum/job/doctor, /datum/job/medical_trainee),	//Other jobs unavailable via branch restrictions,
+		/datum/species/unathi = list(HUMAN_ONLY_JOBS),
+		/datum/species/unathi/yeosa = list(HUMAN_ONLY_JOBS),
+		/datum/species/diona = list(HUMAN_ONLY_JOBS),
+		/datum/species/skrell = list(HUMAN_ONLY_JOBS),
+		/datum/species/machine = list(HUMAN_ONLY_JOBS),
+		/datum/species/human/gravworlder = list(HUMAN_ONLY_JOBS),
+		/datum/species/human/spacer = list(HUMAN_ONLY_JOBS),
+		/datum/species/human/tritonian = list(HUMAN_ONLY_JOBS),
+		/datum/species/human/vatgrown = list(HUMAN_ONLY_JOBS),
+		/datum/species/human/mule = list(HUMAN_ONLY_JOBS),
 	)
 #undef HUMAN_ONLY_JOBS
 
