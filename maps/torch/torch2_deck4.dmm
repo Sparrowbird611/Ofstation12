@@ -11354,15 +11354,15 @@
 /area/maintenance/fourthdeck/aft)
 "MN" = (
 /obj/structure/table/woodentable,
-/obj/item/reagent_containers/food/drinks/glass2/coffeecup/SCG{
+/obj/item/reagent_containers/food/drinks/glass2/coffeecup{
 	pixel_x = -5;
 	pixel_y = 9
 	},
-/obj/item/reagent_containers/food/drinks/glass2/coffeecup/SCG{
+/obj/item/reagent_containers/food/drinks/glass2/coffeecup{
 	pixel_x = 7;
 	pixel_y = 5
 	},
-/obj/item/reagent_containers/food/drinks/glass2/coffeecup/SCG{
+/obj/item/reagent_containers/food/drinks/glass2/coffeecup{
 	pixel_x = -1;
 	pixel_y = 1
 	},
@@ -11875,10 +11875,10 @@
 "Oh" = (
 /obj/structure/table/standard,
 /obj/machinery/light,
-/obj/item/reagent_containers/food/drinks/glass2/coffeecup/SCG{
+/obj/item/reagent_containers/food/drinks/glass2/coffeecup{
 	pixel_y = 8
 	},
-/obj/item/reagent_containers/food/drinks/glass2/coffeecup/SCG{
+/obj/item/reagent_containers/food/drinks/glass2/coffeecup{
 	pixel_x = 4
 	},
 /obj/effect/floor_decal/corner/paleblue{
