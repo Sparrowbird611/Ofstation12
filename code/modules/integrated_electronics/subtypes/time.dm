@@ -142,8 +142,8 @@
 	power_draw_per_use = 2
 
 /obj/item/integrated_circuit/time/clock
-	name = "integrated clock (Sol Common Time)"
-	desc = "Tells you what the time is, in Sol Common Time."				// Round Time
+	name = "integrated clock (Solar Common Time)"
+	desc = "Tells you what the time is, in Solar Common Time."				// Round Time
 	icon_state = "clock"
 	inputs = list()
 	outputs = list(

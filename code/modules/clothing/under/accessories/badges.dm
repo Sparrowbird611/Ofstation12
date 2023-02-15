@@ -192,7 +192,7 @@
 
 /obj/item/clothing/accessory/badge/agent
 	name = "\improper SFP Agent's badge"
-	desc = "A leather-backed gold badge displaying the crest of the Sol Federal Police."
+	desc = "A leather-backed gold badge displaying the crest of the Solar Authority Police."
 	icon_state = "agentbadge"
 	slot_flags = SLOT_BELT | SLOT_TIE | SLOT_MASK
 	slot = ACCESSORY_SLOT_INSIGNIA
@@ -201,7 +201,7 @@
 
 /obj/item/clothing/accessory/badge/tracker
 	name = "\improper Tracker's badge"
-	desc = "A blue leather-backed gold badge displaying the crest of the Sol Federal Police."
+	desc = "A blue leather-backed gold badge displaying the crest of the Solar Authority Police."
 	icon_state = "trackerbadge"
 	slot_flags = SLOT_BELT | SLOT_TIE
 	slot = ACCESSORY_SLOT_INSIGNIA

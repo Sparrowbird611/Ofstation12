@@ -3,7 +3,7 @@
 /datum/map_template/ruin/sfv_arbiter
 	name = "SFV Arbiter"
 	id = "arbiter"
-	description = "A fairly standard armed transport shuttle belonging to the Sol Fleet. It's transponder reads 'SFV Arbiter'."
+	description = "A fairly standard armed transport shuttle belonging to the Solar Authority Fleet. It's transponder reads 'SFV Arbiter'."
 	suffixes = list("maps/event/sfv_arbiter/sfv_arbiter.dmm")
 	shuttles_to_initialise = list(/datum/shuttle/autodock/overmap/sfv_arbiter)
 

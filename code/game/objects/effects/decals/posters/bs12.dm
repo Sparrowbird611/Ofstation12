@@ -291,8 +291,8 @@
 
 /singleton/poster/fleet
 	icon_state="poster_fleet"
-	name = "SCGF recruitment poster"
-	desc = "A poster produced by the SCGF. It depicts a tactical-looking Fourth Fleet petty officer, standing in front of the SCG flag proudly."
+	name = "SAF recruitment poster"
+	desc = "A poster produced by the SAF. It depicts a tactical-looking Fourth Fleet petty officer, standing in front of the SA flag proudly."
 
 /singleton/poster/torch
 	icon_state="poster_ripped"
@@ -307,7 +307,7 @@
 /singleton/poster/torch/event2
 	icon_state="bsposter_event2"
 	name = "Captain for Senate"
-	desc = "A poster loudly advertising the SEV Torch's captain's upcoming bid for SCG Senate. The fine print lightly suggests that failing to vote in their favor will result in an NJP."
+	desc = "A poster loudly advertising the SEV Torch's captain's upcoming bid for SA Senate. The fine print lightly suggests that failing to vote in their favor will result in an NJP."
 
 /singleton/poster/torch/event3
 	icon_state="bsposter_event3"

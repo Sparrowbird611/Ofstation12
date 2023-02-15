@@ -11,13 +11,13 @@
 	)
 
 // Cultural IDs.
-#define FACTION_SOL_CENTRAL    "Sol Central Government"
+#define FACTION_SOL_CENTRAL    "Solar Authority"
 #define FACTION_INDIE_CONFED  "Gilgamesh Colonial Confederation"
 #define FACTION_NANOTRASEN     "NanoTrasen"
 #define FACTION_FREETRADE      "Free Trade Union"
 #define FACTION_HEPHAESTUS     "Hephaestus Industries"
 #define FACTION_XYNERGY        "Xynergy"
-#define FACTION_FLEET          "SCG Fleet"
+#define FACTION_FLEET          "SA Fleet"
 #define FACTION_EXPEDITIONARY  "Expeditionary Corps"
 #define FACTION_PCRC           "Proxima Centauri Risk Control"
 #define FACTION_SAARE          "Strategic Assault and Asset Retention Enterprises"
@@ -25,7 +25,7 @@
 #define FACTION_DAIS           "Deimos Advanced Information Systems"
 #define FACTION_OTHER          "Other Faction"
 #define FACTION_TEST_SUBJECTS  "Test Subjects"
-#define FACTION_SPACECOPS  "Sol Federal Police"
+#define FACTION_SPACECOPS  "Solar Authority Police"
 
 #define HOME_SYSTEM_EARTH      "Earth"
 #define HOME_SYSTEM_LUNA       "Luna"

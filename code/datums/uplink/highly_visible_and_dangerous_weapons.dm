@@ -211,8 +211,7 @@
 
 /datum/uplink_item/item/visible_weapons/incendiary_laser
 	name = "Incendiary Laser Blaster"
-	desc = "A laser weapon developed and subsequently banned in Sol space, it sets its targets on fire with dispersed laser technology. \
-			Most of these blasters were swiftly bought back and destroyed - but not this one."
+	desc = "An unusual laser weapon that sets its targets on fire with dispersed laser technology."
 	item_cost = 40
 	path = /obj/item/gun/energy/incendiary_laser
 

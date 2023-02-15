@@ -1,10 +1,10 @@
 
 /datum/computer_file/report/recipient/medical
 	logo = "\[solcrest\]"
-	form_name = "SCG-MED-00"
+	form_name = "SA-MED-00"
 
 /datum/computer_file/report/recipient/medical/incidentreport
-	form_name = "SCG-MED-04"
+	form_name = "SA-MED-04"
 	title = "Medical Incident Report"
 	available_on_ntnet = TRUE
 
@@ -23,7 +23,7 @@
 	set_access(access_surgery)
 
 /datum/computer_file/report/recipient/medical/checkup
-	form_name = "SCG-MED-013b"
+	form_name = "SA-MED-013b"
 	title = "Regular Health Checkup Checklist"
 	available_on_ntnet = TRUE
 
@@ -47,7 +47,7 @@
 	set_access(access_edit = access_medical_equip)
 
 /datum/computer_file/report/recipient/medical/autopsy
-	form_name = "SCG-MED-015"
+	form_name = "SA-MED-015"
 	title = "Autopsy Report"
 	available_on_ntnet = TRUE
 
@@ -73,6 +73,6 @@
 
 	add_field(/datum/report_field/text_label/instruction, "By signing below, I affirm that I have reviewed all of the above and affirm it is factually correct to the best of my knowledge. If there is no Chief Medical Officer available, this signature may be skipped.")
 	var/datum/report_field/cmofield = add_field(/datum/report_field/people/from_manifest, "Chief Medical Officer")
-	cmofield.set_access(access_morgue, access_cmo)	
+	cmofield.set_access(access_morgue, access_cmo)
 	cmofield = add_field(/datum/report_field/signature, "Chief Medical Officer's Signature")
 	cmofield.set_access(access_morgue, access_cmo)

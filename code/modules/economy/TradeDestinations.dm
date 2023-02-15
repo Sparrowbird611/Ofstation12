@@ -75,7 +75,7 @@ var/global/list/weighted_mundaneevent_locations = list()
 
 /datum/trade_destination/biesel
 	name = "Biesel"
-	description = "Large ship yards, strong economy and a stable, well-educated populace, Biesel largely owes allegiance to Sol / Vessel Contracting and begrudgingly tolerates NT. Capital is Lowell City."
+	description = "Large ship yards, strong economy and a stable, well-educated populace, Biesel largely owes allegiance to the Solar Authority / Vessel Contracting and begrudgingly tolerates NT. Capital is Lowell City."
 	distance = 2.3
 	willing_to_buy = list()
 	willing_to_sell = list()

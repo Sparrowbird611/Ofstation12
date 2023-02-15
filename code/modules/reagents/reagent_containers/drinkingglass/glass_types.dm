@@ -149,11 +149,11 @@
 	icon_state = "coffeecup_heart"
 	base_name = "heart cup"
 
-/obj/item/reagent_containers/food/drinks/glass2/coffeecup/SCG
-	name = "\improper SCG coffee cup"
-	desc = "A blue coffee cup emblazoned with the crest of the Sol Central Government."
-	icon_state = "coffeecup_SCG"
-	base_name = "\improper SCG cup"
+/obj/item/reagent_containers/food/drinks/glass2/coffeecup/SA
+	name = "\improper SA coffee cup"
+	desc = "A blue coffee cup emblazoned with the crest of the Solar Authority."
+	icon_state = "coffeecup_SA"
+	base_name = "\improper SA cup"
 
 /obj/item/reagent_containers/food/drinks/glass2/coffeecup/NT
 	name = "\improper NT coffee cup"

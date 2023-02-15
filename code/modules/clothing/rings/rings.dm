@@ -20,12 +20,12 @@
 
 /obj/item/clothing/ring/fleet
 	name = "Fleet ring"
-	desc = "A ring commemorating honorable service with the Sol Government's Fleet."
+	desc = "A ring commemorating honorable service with the Solar Authority's Fleet."
 	icon_state = "fleet"
 
 /obj/item/clothing/ring/ec
 	name = "Expeditionary Corps ring"
-	desc = "A ring commemorating honorable service with the Sol Government's Expeditionary Corps."
+	desc = "A ring commemorating honorable service with the Solar Authority's Expeditionary Corps." //I don't think this is a thing, might have to remove it from loadout
 	icon_state = "ec"
 
 /////////////////////////////////////////
@@ -92,7 +92,7 @@
 
 /obj/item/clothing/ring/seal/secgen
 	name = "Secretary-General's official seal"
-	desc = "The official seal of the Secretary-General of the Sol Central Government, featured prominently on a silver ring."
+	desc = "The official seal of the Secretary-General of the Solar Authority, featured prominently on a silver ring."
 	icon_state = "seal-secgen"
 
 /obj/item/clothing/ring/seal/mason

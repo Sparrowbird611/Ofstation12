@@ -109,8 +109,8 @@
 	icon_state = "rollgeneric"
 
 /obj/item/storage/chewables/rollable/fine
-	name = "bag of Golden Sol tobacco"
-	desc = "A exclusive brand of overpriced tobacco, allegedly grown at a lagrange point station in Sol system."
+	name = "bag of Golden Star tobacco"
+	desc = "A exclusive brand of overpriced tobacco, smoked by those who want to show off."
 	startswith = list(/obj/item/reagent_containers/food/snacks/grown/dried_tobacco/fine = 8)
 	icon_state = "rollfine"
 
@@ -141,7 +141,7 @@
 
 /obj/item/storage/chewables/tobacco3
 	name = "box of Nico-Tine gum"
-	desc = "A Sol-approved brand of nicotine gum. Cut out the middleman for your addiction fix."
+	desc = "A Solar Authority approved brand of nicotine gum. Cut out the middleman for your addiction fix."
 	icon_state = "chew_nico"
 	startswith = list(/obj/item/clothing/mask/chewable/tobacco/nico = 6)
 

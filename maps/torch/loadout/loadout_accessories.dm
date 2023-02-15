@@ -1,6 +1,6 @@
 /datum/gear/accessory/solgov_award_military
 	display_name = "SolGov military award selection"
-	description = "A selection of military awards awarded by the Sol Central Government."
+	description = "A selection of military awards awarded by the Solar Authority."
 	path = /obj/item/clothing/accessory/medal/solgov/mil
 	cost = 8
 	allowed_branches = SOLGOV_BRANCHES
@@ -21,7 +21,7 @@
 
 /datum/gear/accessory/solgov_award_civilian
 	display_name = "SolGov civilian award selection"
-	description = "A selection of civilian awards awarded by the Sol Central Government."
+	description = "A selection of civilian awards awarded by the Solar Authority."
 	path = /obj/item/clothing/accessory/medal/solgov/civ
 	cost = 5
 	flags = GEAR_HAS_NO_CUSTOMIZATION
@@ -36,7 +36,7 @@
 
 /datum/gear/accessory/solgov_award_ribbons
 	display_name = "SolGov ribbon selection"
-	description = "A selection of decorations and medal ribbons awarded by the Sol Central Government."
+	description = "A selection of decorations and medal ribbons awarded by the Solar Authority."
 	path = /obj/item/clothing/accessory/ribbon/solgov
 	cost = 3
 	allowed_branches = SOLGOV_BRANCHES

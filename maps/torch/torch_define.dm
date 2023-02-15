@@ -21,9 +21,9 @@
 	dock_name     = "TBD"
 	boss_name     = "Expeditionary Command"
 	boss_short    = "Command"
-	company_name  = "Sol Central Government"
+	company_name  = "Solar Authority"
 	company_short = "SolGov"
-
+//I am going to leave these here, but someone needs to purge half our faxes.
 	map_admin_faxes = list(
 		"Expeditionary Corps Command",
 		"Expeditionary Corps Logistics",
@@ -32,7 +32,7 @@
 		"SFP Territory Support",
 		"SFP Special Investigations",
 		"SFP Fugitive Recovery",
-		"Sol Fleet Mars Commmand",
+		"Solar Authority Fleet Commmand",
 		"Bureau of Diplomatic Affairs",
 		"Emergency Management Bureau",
 		"Secure Routing Service"

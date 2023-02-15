@@ -1,13 +1,13 @@
 //army outfits
 /singleton/hierarchy/outfit/job/torch/army
-	name = OUTFIT_JOB_NAME("SCGA Soldier - Torch")
+	name = OUTFIT_JOB_NAME("SAA Soldier - Torch")
 	uniform = /obj/item/clothing/under/solgov/utility/army
 	head = /obj/item/clothing/head/solgov/utility/army
 	back = /obj/item/storage/backpack/rucksack/green
 	shoes = /obj/item/clothing/shoes/jungleboots
 
 /singleton/hierarchy/outfit/job/torch/armyservice
-	name = OUTFIT_JOB_NAME("SCGA Service - Torch")
+	name = OUTFIT_JOB_NAME("SAA Service - Torch")
 	uniform = /obj/item/clothing/under/solgov/service/army
 	head = /obj/item/clothing/head/solgov/service/army
 	suit = /obj/item/clothing/suit/storage/solgov/service/army
@@ -15,21 +15,21 @@
 	shoes = /obj/item/clothing/shoes/dress
 
 /singleton/hierarchy/outfit/job/torch/armyservice/skirt
-	name = OUTFIT_JOB_NAME("SCGA Service - Skirt")
+	name = OUTFIT_JOB_NAME("SAA Service - Skirt")
 	uniform = /obj/item/clothing/under/solgov/service/army/skirt
 
 /singleton/hierarchy/outfit/job/torch/armyservice/officer
-	name = OUTFIT_JOB_NAME("SCGA Service - Officer")
+	name = OUTFIT_JOB_NAME("SAA Service - Officer")
 	uniform = /obj/item/clothing/under/solgov/service/army/command
 	head = /obj/item/clothing/head/solgov/service/army/command
 	suit = /obj/item/clothing/suit/storage/solgov/service/army/command
 
 /singleton/hierarchy/outfit/job/torch/armyservice/officer/skirt
-	name = OUTFIT_JOB_NAME("SCGA Service - Officer Skirt")
+	name = OUTFIT_JOB_NAME("SAA Service - Officer Skirt")
 	uniform = /obj/item/clothing/under/solgov/service/army/command/skirt
 
 /singleton/hierarchy/outfit/job/torch/armydress
-	name = OUTFIT_JOB_NAME("SCGA Dress - Torch")
+	name = OUTFIT_JOB_NAME("SAA Dress - Torch")
 	uniform = /obj/item/clothing/under/solgov/mildress/army
 	head = /obj/item/clothing/head/solgov/dress/army
 	suit = /obj/item/clothing/suit/dress/solgov/army
@@ -37,15 +37,15 @@
 	shoes = /obj/item/clothing/shoes/dress
 
 /singleton/hierarchy/outfit/job/torch/armydress/skirt
-	name = OUTFIT_JOB_NAME("SCGA Dress - Skirt")
+	name = OUTFIT_JOB_NAME("SAA Dress - Skirt")
 	uniform = /obj/item/clothing/under/solgov/mildress/army/skirt
 
 /singleton/hierarchy/outfit/job/torch/armydress/officer
-	name = OUTFIT_JOB_NAME("SCGA Dress - Officer")
+	name = OUTFIT_JOB_NAME("SAA Dress - Officer")
 	uniform = /obj/item/clothing/under/solgov/mildress/army/command
 	head = /obj/item/clothing/head/solgov/dress/army/command
 	suit = /obj/item/clothing/suit/dress/solgov/army/command
 
 /singleton/hierarchy/outfit/job/torch/armydress/officer/skirt
-	name = OUTFIT_JOB_NAME("SCGA Dress - Officer Skirt")
+	name = OUTFIT_JOB_NAME("SAA Dress - Officer Skirt")
 	uniform = /obj/item/clothing/under/solgov/mildress/army/command/skirt

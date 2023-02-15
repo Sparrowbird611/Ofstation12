@@ -4,7 +4,7 @@
 
 /datum/computer_file/report/recipient/docked
 	logo = "\[solcrest\]"
-	form_name = "SCG-SUP-12"
+	form_name = "SA-SUP-12"
 	title = "Docked Vessel Report"
 	available_on_ntnet = TRUE
 

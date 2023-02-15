@@ -120,7 +120,7 @@
 
 /obj/item/clothing/head/beret/mininghome_scg
 	name = "faded Orbital Assault beret"
-	desc = "An old SCGDF Fleet beret with an orbital assault crest."
+	desc = "An old SADF Fleet beret with an orbital assault crest."
 	icon = 'maps/away/mininghome/icons.dmi'
 	item_icons = list(slot_head_str = 'maps/away/mininghome/onmob_icons.dmi')
 	icon_state = "beret_blue"

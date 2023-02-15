@@ -2,7 +2,7 @@
 
 /obj/random/memo_scgr
 	name = "random scgr memo"
-	desc = "This may spawn one of the SCGR Memos."
+	desc = "This may spawn one of the SAC's Memos."
 	icon = 'icons/obj/bureaucracy.dmi'
 	icon_state = "docs_generic"
 	spawn_nothing_percentage = 15
@@ -93,8 +93,8 @@
 
 
 /obj/random_multi/single_item/memo_scgr
-	name = "Multi Point - SCGR Memos"
-	id = "SCGR Memos"
+	name = "Multi Point - SAC Memos"
+	id = "SAC Memos"
 	item_path = /obj/random/memo_scgr
 
 /obj/random_multi/single_item/memo_command
@@ -175,15 +175,15 @@
 
 /obj/item/paper/memo/scgr/skrelljokes
 	name = "internal conversation record"
-	info = {"A "confidential" discussion between several Sol Government Representatives, including some crass jokes on if Skrell being squished would burst like a water balloon or squish like a jam sandwich."}
+	info = {"A "confidential" discussion between several Solar Authority Representatives, including some crass jokes on if Skrell being squished would burst like a water balloon or squish like a jam sandwich."}
 
 /obj/item/paper/memo/scgr/spicypolitics
 	name = "internal conversation record"
-	info = {"A "confidential" discussion between several Sol Government Representatives, including some interesting political tidbits. Seems like most of them are going to be supporting more conservative, Sol-centric parties next election, voicing annoyance at having to deal with hissing lizards and warbling frogs."}
+	info = {"A "confidential" discussion between several Solar Authority Representatives, including some interesting political tidbits. Seems like most of them are going to be supporting more conservative, Sol-centric parties next election, voicing annoyance at having to deal with hissing lizards and warbling frogs."}
 
 /obj/item/paper/memo/scgr/deskfires
 	name = "important notice"
-	info = {"A "confidential" notice issued to Sol Government Representatives, informing them of an office fire caused by improper cigarette ash management."}
+	info = {"A "confidential" notice issued to Solar Authority Representatives, informing them of an office fire caused by improper cigarette ash management."}
 
 /obj/item/paper/memo/scgr/boringreports
 	name = "\improper Torch project status update #132"
@@ -191,19 +191,19 @@
 
 /obj/item/paper/memo/scgr/documentdamage
 	name = "important notice"
-	info = {"A "confidential" notice issued to Sol Government Representatives, informing them that many documents were damaged last week due to "inappropriate sleep management". It urges all diplomatic staff to self-monitor their sleeping schedule and to regulate their caffeine intake."}
+	info = {"A "confidential" notice issued to Solar Authority Representatives, informing them that many documents were damaged last week due to "inappropriate sleep management". It urges all diplomatic staff to self-monitor their sleeping schedule and to regulate their caffeine intake."}
 
 /obj/item/paper/memo/scgr/documentdisposal
 	name = "proper document disposal"
 	info = {"Some "internal use only" documents, showing several pictures of reconstructed shredded documents. It highlights that shredding is not acceptable for any documents that are above Confidental, going on to recommend incineration as a primary method."}
 
 /obj/item/paper/memo/scgr/yourjob
-	name = "\improper SCG and you"
-	info = {"Some "confidential" briefing documents, detailing the job of the SCGR in brief. It highlights they are a civilian, first and foremost, who functions as a general-purpose civil servant aboard the SEV Torch. They also should advise the Commanding Officer, assisting with bureaucratic affairs where required, and spearheading diplomatic negotations."}
+	name = "\improper SA and you"
+	info = {"Some "confidential" briefing documents, detailing the job of the SAC in brief. It highlights they are a civilian, first and foremost, who functions as a general-purpose civil servant aboard the SEV Torch. They also should advise the Commanding Officer, assisting with bureaucratic affairs where required, and spearheading diplomatic negotations."}
 
 /obj/item/paper/memo/scgr/perdiemdeny
 	name = "per diem denials"
-	info = {"An "internal use only" document, explaining what not to file per diem reimbursement requests on. It lists examples of many per diem requests SCG representatives have filed in the past that have been denied. Some of the more interesting ones include casino debts, a request for per diem to cover the increased tax on alcohol on a station, and one odd case involving a possum, engineering PPE, and two injuries."}
+	info = {"An "internal use only" document, explaining what not to file per diem reimbursement requests on. It lists examples of many per diem requests SA representatives have filed in the past that have been denied. Some of the more interesting ones include casino debts, a request for per diem to cover the increased tax on alcohol on a station, and one odd case involving a possum, engineering PPE, and two injuries."}
 
 /obj/item/paper/memo/scgr/execution
 	name = "formal complaint"
@@ -211,11 +211,11 @@
 
 /obj/item/paper/memo/scgr/floritstatement
 	name = "undersecretary statement"
-	info = {"A press release issued by the newly-appointed Undersecretary of Diplomatic Affairs, Isabel Florit. The statement assures the public that there will be "no repeats" of the mistakes carried out in recent months aboard the SEV Torch. It goes on to advocate the role of the Defense Forces in public affairs, and suggests that the Diplomatic Affairs office will be working closely with the SCG Fleet under Florit's leadership in the interest of preventing any further incidents."}
+	info = {"A press release issued by the newly-appointed Undersecretary of Diplomatic Affairs, Isabel Florit. The statement assures the public that there will be "no repeats" of the mistakes carried out in recent months aboard the SEV Torch. It goes on to advocate the role of the Defense Forces in public affairs, and suggests that the Diplomatic Affairs office will be working closely with the SA Fleet under Florit's leadership in the interest of preventing any further incidents."}
 
 /obj/item/paper/memo/scgr/senateminutes
 	name = "assembly floor proceedings"
-	info = {"A copy of the minutes from the Sol Assembly hearing over an emergency bill giving the SCG Defense Forces jurisdiction over the Expeditionary Corps (and by extension, the SEV Torch). The debate is vicious and devolves into angry bickering at points. The bill appears to have gotten uncomfortably close to being passed."}
+	info = {"A copy of the minutes from the Sol Assembly hearing over an emergency bill giving the SA Defense Forces jurisdiction over the Expeditionary Corps (and by extension, the SEV Torch). The debate is vicious and devolves into angry bickering at points. The bill appears to have gotten uncomfortably close to being passed."}
 
 
 // command memos
@@ -477,7 +477,7 @@
 
 /obj/item/paper/memo/exploration/survivors
 	name = "interactions with survivors"
-	info = {"Some "internal use only" reports discussing the process of dealing with survivors, off-ship personnel, or in-distress civilians. This one details three points that all explorers, Fleet servicemembers, or contractor personnel should attempt to follow when dealing with off-ship persons: First, treat them with the utmost respect at all times, as they are the ones who need aid. Second, do not directly order them around, unless they happen to be getting in the way of SCG objectives. Third, remind them of their rights - they are requiring aid and are to be treated with the best handling, but remind them that they are still on SCG property, and are subject to SCG law at all times."}
+	info = {"Some "internal use only" reports discussing the process of dealing with survivors, off-ship personnel, or in-distress civilians. This one details three points that all explorers, Fleet servicemembers, or contractor personnel should attempt to follow when dealing with off-ship persons: First, treat them with the utmost respect at all times, as they are the ones who need aid. Second, do not directly order them around, unless they happen to be getting in the way of SA objectives. Third, remind them of their rights - they are requiring aid and are to be treated with the best handling, but remind them that they are still on SA property, and are subject to SA law at all times."}
 
 /obj/item/paper/memo/exploration/cigarettes
 	name = "cigarettes with helmets"
@@ -604,4 +604,4 @@
 
 /obj/item/paper/memo/security/extremism
 	name = "anti-radicalization pamphlet"
-	info = {"An "internal use only" document detailing strategies for identifying signs and risk factors for radicalization, created in light of perceived extremism in the SCGF. It discusses low self-esteem, stress, marginalization, repeat disciplinary issues, and excessive interest in weaponry."}
+	info = {"An "internal use only" document detailing strategies for identifying signs and risk factors for radicalization, created in light of perceived extremism in the SAF. It discusses low self-esteem, stress, marginalization, repeat disciplinary issues, and excessive interest in weaponry."}

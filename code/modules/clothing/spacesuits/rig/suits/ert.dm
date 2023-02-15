@@ -132,7 +132,7 @@
 
 /obj/item/rig/ert/fleet
 	name = "emergency response hardsuit control module"
-	desc = "A hardsuit utilised especially by Fleet combat teams. Has navy blue highlights and Sol-patterned crests on the shoulders."
+	desc = "A hardsuit utilised especially by Fleet combat teams. Has navy blue highlights and Solar Authority patterned crests on the shoulders."
 	suit_type = "emergency response fleet"
 	icon_state = "ert_fleet_rig"
 	armor = list(

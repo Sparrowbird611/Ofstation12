@@ -1,10 +1,10 @@
 
 /datum/computer_file/report/recipient/sol
 	logo = "\[solcrest\]"
-	form_name = "SCG-REP-00"
+	form_name = "SA-REP-00"
 
 /datum/computer_file/report/recipient/sol/audit
-	form_name = "SCG-REP-12"
+	form_name = "SA-REP-12"
 	title = "SEV Torch Department Audit"
 	available_on_ntnet = TRUE
 
@@ -22,7 +22,7 @@
 	..()
 
 /datum/computer_file/report/recipient/sol/crewman_incident
-	form_name = "SCG-REP-4"
+	form_name = "SA-REP-4"
 	title = "Crewman Incident Report"
 	available_on_ntnet = TRUE
 
@@ -38,7 +38,7 @@
 	..()
 
 /datum/computer_file/report/recipient/sol/work_visa
-	form_name = "SCG-REP-03b"
+	form_name = "SA-REP-03b"
 	title = "Work Visa Issuing Form"
 	available_on_ntnet = TRUE
 
