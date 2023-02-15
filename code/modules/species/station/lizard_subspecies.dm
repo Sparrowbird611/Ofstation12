@@ -12,6 +12,7 @@
 	flash_mod = 1.4
 	blood_volume = 700
 	water_soothe_amount = 5
+	spawn_flags = SPECIES_IS_RESTRICTED
 	description = "A heavily aquatic offshoot of the Sinta species, Yeosa originally hail from the \
 	Salt Swamps, leaving their former home for unclear reasons.<br/><br/>Now dwelling in the islands and seas, \
 	their culture has diverged majorly from the Sinta, spending less time performing acts of violence and more time socializing. \
