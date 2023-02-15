@@ -191,7 +191,7 @@
 
 
 /obj/item/clothing/accessory/badge/agent
-	name = "\improper SFP Agent's badge"
+	name = "\improper SAP Agent's badge"
 	desc = "A leather-backed gold badge displaying the crest of the Solar Authority Police."
 	icon_state = "agentbadge"
 	slot_flags = SLOT_BELT | SLOT_TIE | SLOT_MASK

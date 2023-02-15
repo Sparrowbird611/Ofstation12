@@ -152,7 +152,7 @@
 /obj/item/reagent_containers/food/drinks/glass2/coffeecup/SA
 	name = "\improper SA coffee cup"
 	desc = "A blue coffee cup emblazoned with the crest of the Solar Authority."
-	icon_state = "coffeecup_SA"
+	icon_state = "coffeecup_SCG"
 	base_name = "\improper SA cup"
 
 /obj/item/reagent_containers/food/drinks/glass2/coffeecup/NT

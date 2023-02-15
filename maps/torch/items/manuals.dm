@@ -1,6 +1,6 @@
 /obj/item/book/manual/solgov_law
 	name = "Solar Authority Law"
-	desc = "A brief overview of SolGov Law."
+	desc = "A brief overview of SA Law."
 	icon_state = "bookSolGovLaw"
 	author = "The Solar Authority"
 	title = "Solar Authority Law"
@@ -45,7 +45,7 @@
 
 /obj/item/book/manual/sol_sop
 	name = "Standard Operating Procedure"
-	desc = "SOP aboard the SEV Torch."
+	desc = "SOP aboard the SFAV Archon."
 	icon_state = "booksolregs"
 	author = "The Solar Authority"
 	title = "Standard Operating Procedure"
@@ -68,7 +68,7 @@
 /obj/item/folder/nt/rd
 
 /obj/item/folder/envelope/captain
-	desc = "A thick envelope. The SA crest is stamped in the corner, along with 'TOP SECRET - TORCH UMBRA'."
+	desc = "A thick envelope. The SA crest is stamped in the corner, along with 'TOP SECRET - ARCHON UMBRA'."
 
 /obj/item/folder/envelope/captain/Initialize()
 	..()
@@ -83,7 +83,7 @@
 	<img src = sollogo.png>
 	</center>
 	<b>FROM:</b> ADM William Lau<br>
-	<b>TO:</b> Commanding Officer of SEV Torch<br>
+	<b>TO:</b> Commanding Officer of SFAV ARCHON<br>
 	<b>SUBJECT:</b> Standing Orders<br>
 	<hr>
 	Captain.<br>
@@ -112,7 +112,7 @@
 	new/obj/item/paper/umbra(src)
 
 /obj/item/folder/envelope/rep
-	desc = "A thick envelope. The SA crest is stamped in the corner, along with 'TOP SECRET - TORCH UMBRA'."
+	desc = "A thick envelope. The SA crest is stamped in the corner, along with 'TOP SECRET - ARCHON UMBRA'."
 
 /obj/item/folder/envelope/rep/Initialize()
 	. = ..()
@@ -121,13 +121,13 @@
 /obj/item/paper/umbra
 	name = "UMBRA Protocol"
 	info = {"
-	<tt><center><b><span style='color: red'>TOP SECRET - CODE WORDS: TORCH UMBRA</span></b>
+	<tt><center><b><span style='color: red'>TOP SECRET - CODE WORDS: ARCHON UMBRA</span></b>
 	<h3>OFFICE OF THE SECRETARY GENERAL OF SOLAR AUTHORITY</h3>
 	<img src = sollogo.png>
 	</center>
 	<b>FROM:</b> Johnathan Smitherson, Special Aide of the Secretary General<br>
 	<b>TO:</b> Commanding Officer of the SEV Torch<br>
-	<b>CC:</b> Special Representative aboard the SEV Torch<br>
+	<b>CC:</b> Special Representative aboard the SFAV Archon<br>
 	<b>SUBJECT:</b> UMBRA protocol<br>
 	<hr>
 	This is a small addendum to the usual operating procedures. Unlike the rest of SOP, this is not left to the Commanding Officer's discretion and is mandatory. As unconventional as this is, we felt it is essential for smooth operation of this mission.<br>
