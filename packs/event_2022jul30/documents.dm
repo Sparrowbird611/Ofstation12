@@ -1,5 +1,5 @@
 /obj/item/folder/envelope/declassified1
-	desc = "A thick envelope. The Sol Fleet crest is stamped in the corner, along with 'PUBLIC RELEASE DOCUMENTATION.'"
+	desc = "A thick envelope. The Solar Fleet crest is stamped in the corner, along with 'PUBLIC RELEASE DOCUMENTATION.'"
 
 
 /obj/item/folder/envelope/declassified1/Initialize()

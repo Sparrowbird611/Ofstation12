@@ -594,8 +594,8 @@
 
 /obj/item/paper/workvisa
 	name = "Sol Work Visa"
-	info = "<center><b><large>Work Visa of the Sol Central Government</large></b></center><br><center><img src = sollogo.png><br><br><i><small>Issued on behalf of the Secretary-General.</small></i></center><hr><BR>This paper hereby permits the carrier to travel unhindered through Sol territories, colonies, and space for the purpose of work and labor."
-	desc = "A flimsy piece of laminated cardboard issued by the Sol Central Government."
+	info = "<center><b><large>Work Visa of the Solar Authority</large></b></center><br><center><img src = sollogo.png><br><br><i><small>Issued on behalf of the Secretary-General.</small></i></center><hr><BR>This paper hereby permits the carrier to travel unhindered through Sol territories, colonies, and space for the purpose of work and labor."
+	desc = "A flimsy piece of laminated cardboard issued by the Solar Authority."
 
 /obj/item/paper/workvisa/New()
 	..()
@@ -603,8 +603,8 @@
 
 /obj/item/paper/travelvisa
 	name = "Sol Travel Visa"
-	info = "<center><b><large>Travel Visa of the Sol Central Government</large></b></center><br><center><img src = sollogo.png><br><br><i><small>Issued on behalf of the Secretary-General.</small></i></center><hr><BR>This paper hereby permits the carrier to travel unhindered through Sol territories, colonies, and space for the purpose of pleasure and recreation."
-	desc = "A flimsy piece of laminated cardboard issued by the Sol Central Government."
+	info = "<center><b><large>Travel Visa of the Solar Authority</large></b></center><br><center><img src = sollogo.png><br><br><i><small>Issued on behalf of the Secretary-General.</small></i></center><hr><BR>This paper hereby permits the carrier to travel unhindered through Sol territories, colonies, and space for the purpose of pleasure and recreation."
+	desc = "A flimsy piece of laminated cardboard issued by the Solar Authority."
 
 /obj/item/paper/travelvisa/New()
 	..()

@@ -100,7 +100,7 @@
 
 /datum/gear/head/fleetberet
 	display_name = "Fleet branch beret selection"
-	description = "A beret denoting service in one of the fleets within the SCG Fleet."
+	description = "A beret denoting service in one of the fleets within the SA Fleet."
 	path = /obj/item/clothing/head/beret/solgov/fleet/branch
 	allowed_branches = list(
 		/datum/mil_branch/fleet
@@ -119,7 +119,7 @@
 
 /datum/gear/head/ECberet
 	display_name = "EC sections beret selection"
-	description = "A beret denoting service in one of the branches within the SCG EC."
+	description = "A beret denoting service in one of the branches within the SA EC."
 	path = /obj/item/clothing/head/beret/solgov/expedition/branch
 	allowed_branches = list(
 		/datum/mil_branch/expeditionary_corps

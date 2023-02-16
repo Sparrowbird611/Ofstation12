@@ -31,89 +31,89 @@
 	to_chat(user, info || SPAN_WARNING("[src] is completely blank!"))
 
 /obj/item/passport/scg
-	name = "\improper SCG passport"
+	name = "\improper SA passport"
 	icon_state = "passport_scg"
-	desc = "A passport from the Sol Central Government."
+	desc = "A passport from the Solar Authority."
 
 /obj/item/passport/earth
 	name = "\improper Earth passport"
 	icon_state = "passport_scg2"
-	desc = "A passport from the Earth, within Sol Central Government space."
+	desc = "A passport from the Earth, within Solar Authority space."
 
 /obj/item/passport/venus
 	name = "\improper Venusian passport"
 	icon_state = "passport_scg2"
-	desc = "A passport from Venus, within Sol Central Government space."
+	desc = "A passport from Venus, within Solar Authority space."
 
 /obj/item/passport/luna
 	name = "\improper Luna passport"
 	icon_state = "passport_scg2"
-	desc = "A passport from Luna, within Sol Central Government space."
+	desc = "A passport from Luna, within Solar Authority space."
 
 /obj/item/passport/mars
 	name = "\improper Mars passport"
 	icon_state = "passport_scg2"
-	desc = "A passport from Mars, within Sol Central Government space."
+	desc = "A passport from Mars, within Solar Authority space."
 
 /obj/item/passport/phobos
 	name = "\improper Phobos passport"
 	icon_state = "passport_scg2"
-	desc = "A passport from Phobos, within Sol Central Government space."
+	desc = "A passport from Phobos, within Solar Authority space."
 
 /obj/item/passport/ceres
 	name = "\improper Ceres passport"
 	icon_state = "passport_scg2"
-	desc = "A passport from Ceres, within Sol Central Government space."
+	desc = "A passport from Ceres, within Solar Authority space."
 
 /obj/item/passport/pluto
 	name = "\improper Pluto passport"
 	icon_state = "passport_scg2"
-	desc = "A passport from Pluto, within Sol Central Government space."
+	desc = "A passport from Pluto, within Solar Authority space."
 
 /obj/item/passport/tiamat
 	name = "\improper Tiamat passport"
 	icon_state = "passport_scg2"
-	desc = "A passport from Tiamat, within Sol Central Government space."
+	desc = "A passport from Tiamat, within Solar Authority space."
 
 /obj/item/passport/eos
 	name = "\improper Eos passport"
 	icon_state = "passport_scg2"
-	desc = "A passport from Eos, within Sol Central Government space."
+	desc = "A passport from Eos, within Solar Authority space."
 
 /obj/item/passport/ceti_epsilon
 	name = "\improper Ceti Epsilon passport"
 	icon_state = "passport_scg2"
-	desc = "A passport from Ceti Epsilon, within Sol Central Government space."
+	desc = "A passport from Ceti Epsilon, within Solar Authority space."
 
 /obj/item/passport/iolaus
 	name = "\improper Iolaus passport"
 	icon_state = "passport_scg2"
-	desc = "A passport from Iolaus, within Sol Central Government space."
+	desc = "A passport from Iolaus, within Solar Authority space."
 
 /obj/item/passport/pirx
 	name = "\improper Pirx passport"
 	icon_state = "passport_scg2"
-	desc = "A passport from Pirx, within Sol Central Government space."
+	desc = "A passport from Pirx, within Solar Authority space."
 
 /obj/item/passport/tadmor
 	name = "\improper Tadmor passport"
 	icon_state = "passport_scg2"
-	desc = "A passport from Tadmor, within Sol Central Government space."
+	desc = "A passport from Tadmor, within Solar Authority space."
 
 /obj/item/passport/brahe
 	name = "\improper Brahe passport"
 	icon_state = "passport_scg2"
-	desc = "A passport from Brahe, within Sol Central Government space."
+	desc = "A passport from Brahe, within Solar Authority space."
 
 /obj/item/passport/saffar
 	name = "\improper Saffar passport"
 	icon_state = "passport_scg2"
-	desc = "A passport from Saffar, within Sol Central Government space."
+	desc = "A passport from Saffar, within Solar Authority space."
 
 /obj/item/passport/south_gaia
 	name = "\improper Gaian Administrative Area passport"
 	icon_state = "passport_scg2"
-	desc = "A passport from the southern part of Gaia, under military occupation of the Sol Central Government."
+	desc = "A passport from the southern part of Gaia, under military occupation of the Solar Authority."
 
 /obj/item/passport/iccg
 	name = "\improper ICCG passport"

@@ -306,7 +306,7 @@ TORCH_ESCAPE_POD(17)
 	name = "West of Bridge"
 	landmark_tag = "nav_ert_deck5"
 
-//SCGMC Assault Pod
+//SAMC Assault Pod
 
 /datum/shuttle/autodock/ferry/specops/ert
 	name = "Special Operations"

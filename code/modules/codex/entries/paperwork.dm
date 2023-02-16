@@ -25,12 +25,12 @@
 \[logo\] - Inserts EXO logo image.<br>
 \[ntlogo\] - Inserts the NT logo image.<br>
 \[bluelogo\] - Inserts blue NT logo image.<br>
-\[solcrest\] - Inserts SCG crest image.<br>
+\[solcrest\] - Inserts SA crest image.<br>
 \[eclogo\] - Inserts the Expeditionary Corps logo.<br>
 \[daislogo\] - Inserts the Deimos Advanced Information Systems logo.<br>
 \[xynlogo\] - Inserts the Xyngergy logo.<br>
 \[iccgseal\] - Inserts ICCG seal.<br>
-\[fleetlogo\] - Inserts the logo of the SCG Fleet.<br>
+\[fleetlogo\] - Inserts the logo of the SA Fleet.<br>
 \[sfplogo\] - Inserts the logo of the Sol Federal Police.<br><br>
 <b>Digital exclusive commands (NanoWord, emails, reports, text files, etc):</b><br>
 \[pre\] - \[/pre\] : Adds preformatted text, forcing the text to be fixed width.<br>

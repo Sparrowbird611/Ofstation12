@@ -22,8 +22,8 @@
 
 /obj/item/documents/scg/verified
 	name = "secret government documents"
-	desc = "\"Top Secret\" documents detailing SCG IFF codes, granting the Torch access into restricted sectors. The majority of them are coordinates, codes for fellow ships, and clearance lists."
-	description_antag = "These codes seem very odd for an exploration vessel: a lot of them are SCG blacksites, covered up. You've never even heard of most of these."
+	desc = "\"Top Secret\" documents detailing SA IFF codes, granting the Torch access into restricted sectors. The majority of them are coordinates, codes for fellow ships, and clearance lists."
+	description_antag = "These codes seem very odd for an exploration vessel: a lot of them are SA blacksites, covered up. You've never even heard of most of these."
 	icon_state = "docs_verified"
 
 /obj/item/documents/scg/brains
@@ -46,5 +46,5 @@
 
 /obj/item/documents/scgr
 	name = "private memos and faxes"
-	desc = "\"Top Secret\" memos and faxes between the SCGR and other officials of the SCG. It's like a chat client ran on pure paperwork."
-	description_antag = "The SCGR's conversations contain a massive amount of dirt on politicians: drugs, sex, money..."
+	desc = "\"Top Secret\" memos and faxes between the SAC and other officials of the SA. It's like a chat client ran on pure paperwork."
+	description_antag = "The SAC's conversations contain a massive amount of dirt on politicians: drugs, sex, money..."

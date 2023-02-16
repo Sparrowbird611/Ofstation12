@@ -168,7 +168,7 @@
 
 /obj/item/gun/projectile/automatic/bullpup_rifle
 	name = "bullpup assault rifle"
-	desc = "The Haephestus Z8 is one of the oldest weapons currently in service by the SCGDF. Despite it's age, it still remains the de-facto main rifle of the SCG Army, due to it's ease of handling, cheap production costs, reliability, and plentiful surplus stock."
+	desc = "The Haephestus Z8 is one of the oldest weapons currently in service by the SADF. Despite it's age, it still remains the de-facto main rifle of the SA Army, due to it's ease of handling, cheap production costs, reliability, and plentiful surplus stock."
 	icon = 'icons/obj/guns/bullpup_rifle.dmi'
 	icon_state = "carbine"
 	item_state = "z8carbine"
@@ -243,7 +243,7 @@
 
 /obj/item/gun/projectile/automatic/bullpup_rifle/light
 	name = "light bullpup assault rifle"
-	desc = "The standard-issue rifle of the SCGDF. The Z9 Pitbull is the modern answer to violence's question. It has been given a blued finish with a Sol yellow stripe on its stock for easy identification of its owner."
+	desc = "The standard-issue rifle of the SADF. The Z9 Pitbull is the modern answer to violence's question. It has been given a blued finish with a Sol yellow stripe on its stock for easy identification of its owner."
 	icon = 'icons/obj/guns/bullpup_rifle_light.dmi'
 	item_state = "z9carbine"
 	caliber = CALIBER_RIFLE

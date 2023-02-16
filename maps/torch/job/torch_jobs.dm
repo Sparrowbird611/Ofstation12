@@ -55,7 +55,7 @@
 /datum/map/torch/setup_job_lists()
 	for(var/job_type in allowed_jobs)
 		var/datum/job/job = SSjobs.get_by_path(job_type)
-		// Most species are restricted from SCG security and command roles
+		// Most species are restricted from SA security and command roles
 		if(job && (job.department_flag & COM) && length(job.allowed_branches) && !(/datum/mil_branch/civilian in job.allowed_branches))
 			for(var/species_name in list(SPECIES_IPC, SPECIES_SKRELL, SPECIES_UNATHI))
 				var/datum/species/S = all_species[species_name]

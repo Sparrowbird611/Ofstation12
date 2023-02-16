@@ -45,7 +45,7 @@
 /singleton/cultural_info/culture/human/luna_rich
 	name = CULTURE_HUMAN_LUNARICH
 	description = "You are from Luna, Earths only natural satellite and home to some of the richest, most highly cultured, or influential people of humanity. Fortunately for you, you are one of this elite and well \
-	off class of people. The rich of Luna are politically and economically influential not just in Luna, but in the various corporations, organizations and government bodies of the SCG. \
+	off class of people. The rich of Luna are politically and economically influential not just in Luna, but in the various corporations, organizations and government bodies of the SA. \
 	Luna's upper class isn't equal; generally divided between new, corporate money and old, dynastic money; many members of the old dynasties look down on the newly wealthy. \
 	Much of the elite of Luna is embroiled in 'The Game' a state of political manoeuvring and intrigue among various factions and persons of influence and power \
 	with implications far beyond the squabbles of the prefectures."
@@ -55,7 +55,7 @@
 /singleton/cultural_info/culture/human/venusian_upper
 	name = CULTURE_HUMAN_VENUSIAN
 	description = "You are from one of the many zones of Venus. Floating high above the ground of the planet on massive platforms, you are one of the many who live on one of the most decadent locations in the \
-	SCG. As a Venusian, you know luxury, wealth and entertainment. Primarily a tourist destination, many of the permanent residents work in the tourism industry and are notably middle-income. \
+	SA. As a Venusian, you know luxury, wealth and entertainment. Primarily a tourist destination, many of the permanent residents work in the tourism industry and are notably middle-income. \
 	Those above are exceptionally wealthy, being hotel, casino, resort owners, politicians, bankers or rich retirees."
 	economic_power = 1.4
 
@@ -82,7 +82,7 @@
 	description = "You are from Pluto, one of many denizens of this cruel and unforgiving world. For centuries Pluto has been in a slow state of decay and decline, resulting in \
 	much of the planet's infrastructure being unstable or outright falling apart. This, coupled with rampant corruption and the large influence of criminal organisations across much of \
 	the planet has led to the people of Pluto having something of a seedy reputation, its citizens being viewed with disrepute. The people themselves, however, are usually \
-	just happy to get off the rock and to healthier locales. Unfortunately, despite the efforts of the wider SCG, many Plutonians tend to maintain criminal ties, even offworld."
+	just happy to get off the rock and to healthier locales. Unfortunately, despite the efforts of the wider SA, many Plutonians tend to maintain criminal ties, even offworld."
 	economic_power = 0.8
 	secondary_langs = list (LANGUAGE_HUMAN_EURO,
 		LANGUAGE_HUMAN_CHINESE,
@@ -105,7 +105,7 @@
 
 /singleton/cultural_info/culture/human/ceti
 	name = CULTURE_HUMAN_CETI
-	description = "You are from Ceti Epsilon, the technical hub of the SCG. As a Cetite you are no stranger to the cutting edge of technology present in Sol space. \
+	description = "You are from Ceti Epsilon, the technical hub of the SA. As a Cetite you are no stranger to the cutting edge of technology present in Sol space. \
 	Putting education and the latest tech at the forefront of their priorities the people of Ceti are some of the brightest or tech savvy around. \
 	This has afforded those from the system or planet a reputation as being a cut above the rest in technical matters, with those who attended the Ceti Institute of Technology \
 	being considered some of the best qualified technical specialists in humanity. Recently there has been a rising transhumanist element in Ceti society resulting in a large \
@@ -123,7 +123,7 @@
 
 /singleton/cultural_info/culture/human/spacer_frontier
 	name = CULTURE_HUMAN_SPAFRO
-	description =  "You are from the void between worlds, though you are in the distant, vast frontier of SCG space and beyond. Out here things like national identity and culture mean less; \
+	description =  "You are from the void between worlds, though you are in the distant, vast frontier of SA space and beyond. Out here things like national identity and culture mean less; \
 	those who live so far from anything only look to their close family and friends rather than any larger group. Raised on one of the long haul freighters that move between frontier worlds delivering \
 	vital goods, a lonely outpost on the edge of a dreary backwater, such people are raised in small, confined environments with few others, and tend to be most familiar with older, reliable but outdated \
 	technology. An independent sort, people on the frontier are more likely to be isolationist and self-driven."
@@ -141,7 +141,7 @@
 
 /singleton/cultural_info/culture/human/gaia
 	name = CULTURE_HUMAN_GAIAN
-	description = "Gaia is the sole planet in the Galilei system, serving as the DMZ between the Sol Central Government and the Independent Colonial Confederation of Gilgamesh. It is an agricultural world, though various conflicts across the planet's surface have left it scarred. The planet is divided into Sol-Controlled Gaian Administrative Area and Independent-Guided Protectorate of Gaia, with the International City of New Venice remaining a neutral zone inside the DMZ that circles the planet's equator. The planet's population remain divided even more then 10 years after the Gaia Conflict. While Gaia is divided, the current Mayor of New Venice serves as a vital mediator between the galactic superpowers. The Gaian People are tired of war, and long to see their families once again; They suffered hard twenty years prior, and will not let themselves suffer again."
+	description = "Gaia is the sole planet in the Galilei system, serving as the DMZ between the Solar Authority and the Independent Colonial Confederation of Gilgamesh. It is an agricultural world, though various conflicts across the planet's surface have left it scarred. The planet is divided into Sol-Controlled Gaian Administrative Area and Independent-Guided Protectorate of Gaia, with the International City of New Venice remaining a neutral zone inside the DMZ that circles the planet's equator. The planet's population remain divided even more then 10 years after the Gaia Conflict. While Gaia is divided, the current Mayor of New Venice serves as a vital mediator between the galactic superpowers. The Gaian People are tired of war, and long to see their families once again; They suffered hard twenty years prior, and will not let themselves suffer again."
 	economic_power = 0.9
 
 /singleton/cultural_info/culture/human/other

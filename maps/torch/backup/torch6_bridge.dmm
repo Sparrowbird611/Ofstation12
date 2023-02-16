@@ -1154,11 +1154,11 @@
 /area/crew_quarters/heads/office/xo)
 "cp" = (
 /obj/structure/table/woodentable/walnut,
-/obj/item/reagent_containers/food/drinks/glass2/coffeecup{
+/obj/item/reagent_containers/food/drinks/glass2/coffeecup/SCG{
 	pixel_x = -5;
 	pixel_y = 5
 	},
-/obj/item/reagent_containers/food/drinks/glass2/coffeecup{
+/obj/item/reagent_containers/food/drinks/glass2/coffeecup/SCG{
 	pixel_x = 8;
 	pixel_y = -3
 	},
@@ -4921,7 +4921,7 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/item/reagent_containers/food/drinks/glass2/coffeecup{
+/obj/item/reagent_containers/food/drinks/glass2/coffeecup/SCG{
 	pixel_x = -5;
 	pixel_y = 5
 	},
@@ -8256,7 +8256,7 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/item/reagent_containers/food/drinks/glass2/coffeecup{
+/obj/item/reagent_containers/food/drinks/glass2/coffeecup/SCG{
 	pixel_x = 11;
 	pixel_y = 1
 	},
@@ -11184,7 +11184,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/item/reagent_containers/food/drinks/glass2/coffeecup{
+/obj/item/reagent_containers/food/drinks/glass2/coffeecup/SCG{
 	pixel_x = 3
 	},
 /obj/structure/table/woodentable_reinforced/ebony/walnut,

@@ -47,7 +47,7 @@
 	)
 
 /obj/structure/closet/secure_closet/representative
-	name = "\improper Sol Central Government representative's locker"
+	name = "\improper Solar Authority representative's locker"
 	req_access = list(access_representative)
 	closet_appearance = /singleton/closet_appearance/secure_closet/torch/sol/rep
 
