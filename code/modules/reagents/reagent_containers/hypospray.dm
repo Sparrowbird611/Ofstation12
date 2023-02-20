@@ -247,3 +247,10 @@
 /obj/item/reagent_containers/hypospray/autoinjector/inaprovaline
 	name = "autoinjector (inaprovaline)"
 	starts_with = list(/datum/reagent/inaprovaline = 5)
+
+/obj/item/reagent_containers/hypospray/autoinjector/nutriment
+	name ="autoinjector (nutrients)"
+	desc = "No mouth? No time? No problem. Just stab yourself with this autoinjector, and get a quick dose of essential proteins!"
+	volume = 20
+	amount_per_transfer_from_this = 20
+	starts_with = list(/datum/reagent/nutriment = 20)

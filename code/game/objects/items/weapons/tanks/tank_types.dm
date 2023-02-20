@@ -212,3 +212,23 @@
 	gauge_icon = null
 	tank_size = TANK_SIZE_SMALL
 	volume = 20
+
+/obj/item/tank/phoron_big
+	name = "large phoron tank"
+	icon_state = "phoron_big"
+	distribute_pressure = 12
+	starting_pressure = list(GAS_PHORON = 10*ONE_ATMOSPHERE)
+	volume = 180
+
+/obj/item/tank/emergency/phoron
+	name = "emergency phoron tank"
+	desc = "An emergency air tank hastily painted orange and issued to phoron breathers."
+	force = 5
+	icon_state = "emergency_phoron"
+	w_class = ITEM_SIZE_SMALL
+	slot_flags = SLOT_BELT
+	gauge_icon = "indicator_emergency"
+	attack_cooldown = DEFAULT_WEAPON_COOLDOWN
+	tank_size = TANK_SIZE_SMALL
+	starting_pressure = list(GAS_PLASMA = 10*ONE_ATMOSPHERE)
+	distribute_pressure = 12

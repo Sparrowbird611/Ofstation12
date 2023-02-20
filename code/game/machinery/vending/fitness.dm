@@ -26,7 +26,8 @@
 		/obj/item/reagent_containers/food/snacks/proteinbar = 5,
 		/obj/item/reagent_containers/food/snacks/meatcube = 10,
 		/obj/item/reagent_containers/pill/diet = 25,
-		/obj/item/towel/random = 40
+		/obj/item/towel/random = 40,
+		/obj/item/reagent_containers/hypospray/autoinjector/nutriment = 10
 	)
 	products = list(
 		/obj/item/reagent_containers/food/drinks/small_milk = 8,
@@ -37,7 +38,8 @@
 		/obj/item/reagent_containers/food/snacks/proteinbar = 8,
 		/obj/item/reagent_containers/food/snacks/meatcube = 8,
 		/obj/item/reagent_containers/pill/diet = 8,
-		/obj/item/towel/random = 8
+		/obj/item/towel/random = 8,
+		/obj/item/reagent_containers/hypospray/autoinjector/nutriment = 20
 	)
 	contraband = list(
 		/obj/item/reagent_containers/syringe/steroid = 4

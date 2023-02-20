@@ -90,6 +90,16 @@
 					/obj/item/reagent_containers/food/snacks/proteinbar = 1,
 					/obj/item/device/oxycandle = 1)
 
+/obj/item/storage/box/phoron
+	name = "plasmid survival kit"
+	desc = "A box decorated in warning colors that contains a limited supply of survival tools. This one contains phoron tanks for plasmids."
+	icon_state = "survivaleng"
+	startswith = list(/obj/item/tank/emergency/phoron = 2,
+					/obj/item/extinguisher/mini,
+					/obj/item/reagent_containers/hypospray/autoinjector/pouch_auto/inaprovaline = 1,
+					/obj/item/stack/medical/bruise_pack = 1,
+					/obj/item/device/flashlight/flare/glowstick = 1)
+
 /obj/item/storage/box/vox
 	name = "vox survival kit"
 	desc = "A box decorated in warning colors that contains a limited supply of survival tools. The panel and black stripe indicate this one contains nitrogen."
