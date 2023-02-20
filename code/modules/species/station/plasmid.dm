@@ -49,7 +49,7 @@
 /mob/living/carbon/human/plasmid/pl_effects() //you're made of the stuff why would it hurt you?
 	return
 
-/mob/living/carbon/human/plasmid/vomit(var/toxvomit = 0, var/timevomit = 1, var/level = 3) //nothing to really vomit out, considering they don't eat
+/mob/living/carbon/human/plasmid/vomit(toxvomit = 0, timevomit = 1, level = 3) //nothing to really vomit out, considering they don't eat
 	return
 
 /mob/living/carbon/human/plasmid/get_breath_volume()
