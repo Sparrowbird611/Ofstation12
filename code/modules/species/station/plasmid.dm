@@ -58,7 +58,7 @@
 /datum/species/plasmid/get_blood_name()
 	return "phoronic plasma"
 
-/datum/species/plasmid/equip_survival_gear(var/mob/living/carbon/human/H, extendedtank)
+/datum/species/plasmid/equip_survival_gear(mob/living/carbon/human/H, extendedtank)
 	. = ..()
 	H.equip_to_slot_or_del(new /obj/item/clothing/head/helmet/space/plasmid(H), slot_head)
 	H.equip_to_slot_or_del(new /obj/item/clothing/suit/space/plasmid(H), slot_wear_suit)
@@ -75,7 +75,7 @@
 	else
 		H.equip_to_slot_or_del(new /obj/item/storage/box/phoron(H.back), slot_l_hand)
 
-/datum/species/plasmid/handle_environment_special(var/mob/living/carbon/human/H)
+/datum/species/plasmid/handle_environment_special(mob/living/carbon/human/H)
 	//Should they get exposed to oxygen, things get heated.
 	if(H.stat != DEAD && H.get_pressure_weakness() > 0.6) //If air gets in, then well there's a problem.
 		var/datum/gas_mixture/environment = H.loc.return_air()
